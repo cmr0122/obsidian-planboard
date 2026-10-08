@@ -1,0 +1,9 @@
+node_modules/
+main.js.map
+*.hot-update.js
+.hot
+
+# 防止误提交个人仓库数据（公开仓库，务必保留）
+data.json
+.obsidian/
+日程/

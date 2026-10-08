@@ -1,0 +1,10 @@
+{
+	"id": "planboard",
+	"name": "Planboard",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Calendar schedule plugin with month/week views, todo management, and a right-click context menu.",
+	"author": "kelly",
+	"authorUrl": "https://github.com/cmr0122",
+	"isDesktopOnly": false
+}
